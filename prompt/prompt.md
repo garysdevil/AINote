@@ -1,5 +1,8 @@
 # Prompt 
-- 参考 https://learningprompt.wiki/docs/chatgpt-learning-path
+- 学习资料
+    -  https://learningprompt.wiki/docs/chatgpt-learning-path
+    - https://github.com/Acmesec/PromptJailbreakManual/
+
 ## 场景
 1. 简单问答模式。精确、具体。
 2. 根据例子回答问题。
