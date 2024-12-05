@@ -18,3 +18,5 @@
     3. Windsurf
 5. 其它
     1. https://infinity.theoriq.ai/studio/chat 
+    2. https://app.myshell.ai/chat
+    3. https://copilot.microsoft.com/
