@@ -2,6 +2,7 @@
 - 学习资料
     - https://learningprompt.wiki/docs/chatgpt-learning-path
     - https://github.com/Acmesec/PromptJailbreakManual/
+    - https://github.com/dair-ai/Prompt-Engineering-Guide
 
 ## 基本
 ### 基本使用
@@ -61,3 +62,22 @@ Names: Ruff the Protector, Wonder Canine, Sir Barks-a-Lot
             Text: """具体内容"""
         ```
 6. 通过格式词阐述需要输出的格式
+    ```txt
+        Use the following format:
+        Text: <text to summarize>
+        Summary: <summary>
+        Translation: <summary translation>
+        Names: <list of names in Italian summary>
+        Output JSON: <json with summary and num_names>
+    ```
+7. Zero-Shot Prompts 零样本提示
+8. Few-Shot Prompting 少量样本提示
+
+
+
+## 正确的提问
+```
+问题？
+内容: '内容'
+输出格式？
+```
