@@ -1,3 +1,4 @@
+## 概念
 - AI Agent = 人工智能代理（Artificial Intelligence Agent）
 - 什么是 AI Agent？
     - Agent一词起源于拉丁语中的Agere，意思是“to do”。
@@ -8,3 +9,6 @@
     1. AI 通过传感器、摄像头、麦克风等，建立起对外部世界进行感知。
     2. 通过大模型和N多知识库，用来处理信息，制定计划。
     3. 大模型本身不能完成这些任务，需要调用外部的工具。
+
+## 实践
+- eliza框架 https://github.com/ai16z/eliza
