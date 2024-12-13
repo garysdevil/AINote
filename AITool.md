@@ -47,13 +47,28 @@
         3. 无免费版
 
 4. 角色聊天
-    1. https://character.ai/
+    1. https://character.ai/ 支持语音实时
     2. https://janitorai.com/
     3. https://app.myshell.ai/chat
 
 5. 软件开发
     1. cursor https://www.cursor.so/
+        1. 商业。
+        2. Cursor是一个AI驱动的IDE，强调AI配对编程，提供代码补全、自动修复bug和新功能的编写。它以其相对较小的用户基数为优势，可以更快地迭代和尝试新功能。其用户界面类似于VSCode，但集成了更深度的AI辅助功能。Cursor也提供了与各种LLM（如GPT-4）的集成选项，使其能够根据用户需求进行调整。
     2. GitHub Copilot https://copilot.microsoft.com/
+        1. 商业。
+        2. 由GitHub和OpenAI合作开发，集成于多种IDE中，特别是Visual Studio Code，提供实时的代码建议和补全。Copilot擅长根据自然语言描述生成代码，支持多种编程语言，但其建议有时被认为不如新兴工具精确。最近，它也开始支持Claude模型，但用户体验在某些方面被认为落后于竞争对手。
+    3. Windsurf https://codeium.com/
+        1. 商业。
+        2. 作为Codeium的一部分，Windsurf是一个agentic IDE，注重上下文感知和任务自动化。它支持从VS Code导入插件和设置，提供类似于Cursor的体验，但强调更智能的任务管理和代码优化。其独特功能包括Cascade，允许开发者无缝恢复任务。Windsurf被视为Cursor的竞争者，提供更低的每token成本，并被一些用户认为是“Cursor杀手”。
+    4. CodeGeeX
+        1. 开源与免费工具。
+        2. 由智谱AI推出的开源工具，支持多种编程语言，提供代码生成、补全、注释生成等功能。
+    5. Cody
+        1. 开源与免费工具。
+        2. Sourcegraph推出的AI代码编写助手，能够理解开发者的整个代码库，提供代码生成和补全。
+
+
 
 6.  图片文字视频编辑
     1. https://www.capcut.com/

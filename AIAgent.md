@@ -23,6 +23,9 @@
 - Qwen-Agent
     - 一个开源项目，阿里巴巴的一个基于Qwen2.0的AI Agent框架，具有指令遵循、工具使用、规划和记忆能力，适用于构建各种执行复杂任务的AI代理。
     - https://github.com/QwenLM/Qwen-Agent
+- TEN-Agent
+    - https://github.com/TEN-framework/TEN-Agent
+    - 一个开源项目，首款集成OpenAI实时API的多模态AI代理框架，旨在提供高性能、低延迟的实时音视频交互体验。通过利用RTC（实时通信）技术和AI噪声抑制，TEN-Agent实现了流畅的语音和视频对话，适用于多种应用场景。使用案例 https://x.com/vista8/status/1867379854976630806
 
 
 | 特性       | Eliza              | AutoGPT                            | MetaGPT                                      | Qwen-Agent                               |
