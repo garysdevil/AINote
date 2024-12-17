@@ -17,15 +17,20 @@
 **注意**：
 
 1. https://chatgpt.com/  
-    1. 注册使用，时需要国外手机号进行验证
+    1. 需要登入，注册时需要国外手机号进行验证。
+    2. 支持时时语音。
 2. https://copilot.microsoft.com/
+    1. 不需要登入。
 3. https://gemini.google.com/
+    1. 需要登入；需要全局代理。
 4. https://claude.ai/new  
-    1. 注册使用，时需要国外手机号进行验证
+    1. 需要登入，注册时需要国外手机号进行验证；需要全局代理。
 5. https://x.com/i/grok
+    1. 需要登入 X 账号。
 6. https://huggingface.co/chat
+    1. 不需要登入。
 7. https://www.perplexity.ai/
-    1. 可直接使用
+    1. 不需要登入。
 
 ## 链接
 1. 大模型平台 huggingface
