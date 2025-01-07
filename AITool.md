@@ -1,18 +1,18 @@
 
 ## 通用聊天
 
-| 工具       | ChatGPT                                          | Bing Chat                                  | Google Bard                                 | Claude                                      | Grok                                | HuggingChat                                        | Perplexity                                |
-| ---------- | ------------------------------------------------ | ------------------------------------------ | ------------------------------------------- | ------------------------------------------- | ----------------------------------- | -------------------------------------------------- | ----------------------------------------- |
-| 开发公司   | OpenAI                                           | Microsoft                                  | Google                                      | Anthropic                                   | xAI                                 | Hugging Face                                       | Perplexity AI                             |
-| 基础模型   | GPT-4（ChatGPT Plus）                            | GPT-4（增强版本）                          | Gemini (formerly PaLM 2)                    | Claude 2                                    | Grok-2/Grok-2 mini                  | 多种开源模型（如 Llama, Qwen等）                   | 各种大模型（如GPT-4, Claude 3, Grok-2等） |
-| 免费使用   | 有限制免费版（GPT-3.5）                          | 免费                                       | 免费                                        | 免费                                        | 免费（需 X 平台账户）               | 完全免费                                           | 免费使用（有限制），Pro模式付费           |
-| 高级订阅   | ChatGPT Plus ($20/月)                            | 无需额外订阅                               | Google One AI Premium ($19.99/月)           | 无高级版本                                  | X Premium 和 Premium+（有额外功能） | 无高级订阅                                         | Perplexity Pro ($20/月)                   |
-| 实时联网   | GPT-3.5 无联网；GPT-4 可联网（插件）             | 默认联网                                   | 默认联网                                    | 无法联网                                    | 通过 X 平台实时联网                 | 可通过插件实现                                     | 实时联网                                  |
-| 多模态支持 | 有（图片生成、解读，需插件）                     | 有（图像输入、识别）                       | 仅文本（多模态功能正在开发）                | 仅文本                                      | 文本、图像生成（通过 Flux 模型）    | 文本，部分模型支持图像生成                         | 文本，Pro版本支持图像生成                 |
-| 使用场景   | 聊天、写作、编程、学习辅助                       | 信息查询、网页整合、写作                   | 实时搜索、文案创作                          | 深度写作、长文生成                          | 聊天、信息查询、图像生成、提问建议  | 聊天、教育、代码生成、问答                         | 信息搜索、回答问题、研究辅助              |
-| 数据更新   | 截止到 2023 年（免费版）                         | 实时更新                                   | 实时联网                                    | 截止到训练数据的日期                        | 通过 X 平台实时更新                 | 依赖模型更新，部分实时联网                         | 实时更新                                  |
-| 官网地址   | [openai.com/chatgpt](https://openai.com/chatgpt) | [bing.com/chat](https://www.bing.com/chat) | [bard.google.com](https://bard.google.com/) | [anthropic.com](https://www.anthropic.com/) | [x.ai](https://x.ai/)               | [huggingface.co/chat](https://huggingface.co/chat) | [perplexity.ai](https://perplexity.ai/)   |
-| app        | 有（iOS和Android）                               | 有（通过Bing应用）                         | 无                                          | 无                                          | 无                                  | 无                                                 | 有（iOS）                                 |
+| 工具       | ChatGPT                                          | Bing Chat                                  | Google Bard                                 | Claude                                      | Grok                                | HuggingChat                                        | Perplexity                                | DeepSeek                                   |
+| ---------- | ------------------------------------------------ | ------------------------------------------ | ------------------------------------------- | ------------------------------------------- | ----------------------------------- | -------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 开发公司   | OpenAI                                           | Microsoft                                  | Google                                      | Anthropic                                   | xAI                                 | Hugging Face                                       | Perplexity AI                             | DeepSeek                                   |
+| 基础模型   | GPT-4（ChatGPT Plus）                            | GPT-4（增强版本）                          | Gemini (formerly PaLM 2)                    | Claude 2                                    | Grok-2/Grok-2 mini                  | 多种开源模型（如 Llama, Qwen等）                   | 各种大模型（如GPT-4, Claude 3, Grok-2等） | DeepSeek-V3                                |
+| 免费使用   | 有限制免费版（GPT-3.5）                          | 免费                                       | 免费                                        | 免费                                        | 免费（需 X 平台账户）               | 完全免费                                           | 免费使用（有限制），Pro模式付费           | 部分功能免费，API 调用可能需要付费         |
+| 高级订阅   | ChatGPT Plus ($20/月)                            | 无需额外订阅                               | Google One AI Premium ($19.99/月)           | 无高级版本                                  | X Premium 和 Premium+（有额外功能） | 无高级订阅                                         | Perplexity Pro ($20/月)                   | 无特定订阅，API 使用按需付费               |
+| 实时联网   | GPT-3.5 无联网；GPT-4 可联网（插件）             | 默认联网                                   | 默认联网                                    | 无法联网                                    | 通过 X 平台实时联网                 | 可通过插件实现                                     | 实时联网                                  | 无实时联网功能，但可通过应用接口实现       |
+| 多模态支持 | 有（图片生成、解读，需插件）                     | 有（图像输入、识别）                       | 仅文本（多模态功能正在开发）                | 仅文本                                      | 文本、图像生成（通过 Flux 模型）    | 文本，部分模型支持图像生成                         | 文本，Pro版本支持图像生成                 | 支持文本和代码生成，图像生成能力正在开发中 |
+| 使用场景   | 聊天、写作、编程、学习辅助                       | 信息查询、网页整合、写作                   | 实时搜索、文案创作                          | 深度写作、长文生成                          | 聊天、信息查询、图像生成、提问建议  | 聊天、教育、代码生成、问答                         | 信息搜索、回答问题、研究辅助              | 代码生成、科学研究、问答、高级推理         |
+| 数据更新   | 截止到 2023 年（免费版）                         | 实时更新                                   | 实时联网                                    | 截止到训练数据的日期                        | 通过 X 平台实时更新                 | 依赖模型更新，部分实时联网                         | 实时更新                                  | 通过更新模型版本，数据截止至最新训练数据集 |
+| 官网地址   | [openai.com/chatgpt](https://openai.com/chatgpt) | [bing.com/chat](https://www.bing.com/chat) | [bard.google.com](https://bard.google.com/) | [anthropic.com](https://www.anthropic.com/) | [x.ai](https://x.ai/)               | [huggingface.co/chat](https://huggingface.co/chat) | [perplexity.ai](https://perplexity.ai/)   | [deepseek.com](https://www.deepseek.com/)  |
+| app        | 有（iOS和Android）                               | 有（通过Bing应用）                         | 无                                          | 无                                          | 无                                  | 无                                                 | 有（iOS）                                 | 无                                         |
 
 **注意**：
 
@@ -31,6 +31,8 @@
     1. 不需要登入。
 7. https://www.perplexity.ai/
     1. 不需要登入。
+8. https://www.deepseek.com/
+    1. 需要登入。
 
 ## 链接
 1. 大模型平台 huggingface
