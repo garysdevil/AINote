@@ -33,6 +33,8 @@
     1. 不需要登入。
 8. https://www.deepseek.com/
     1. 需要登入。
+9. https://askmanyai.cn/login
+    1. 需要登入。聚合平台。
 
 ## 链接
 1. 大模型平台 huggingface
