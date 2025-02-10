@@ -90,3 +90,23 @@
 
 8.  其它
     1. 将Github仓库转变为 https://github.com/cyclotruc/gitingest
+
+
+## Deepseek 曲线救国平替
+
+秘塔搜索：https://metaso.cn
+360纳米AI搜索：https://www.n.cn/
+硅基流动：https://cloud.siliconflow.cn/
+字节跳动火山引擎：https://console.volcengine.com/ark/region:ark+cn-beijing/experience
+百度云千帆：https://console.bce.baidu.com/qianfan/modelcenter/model/buildIn/list
+英伟达NIM：deepseek-r1 Model by Deepseek-ai | NVIDIA NIM
+Groq：https://groq.com/
+Fireworks：Fireworks - Deepseek R1
+Chutes：https://chutes.ai/app/chute/
+Github：Sign in to GitHub · GitHub 
+POE：DeepSeek-R1 - Poe 
+Cursor：https://cursor.sh/ 
+Monica：https://monica.im 
+Lambda：https://lambdalabs.com/ 
+Cerebras：https://cerebras.ai 
+Perplexity：https://www.perplexity.ai 
