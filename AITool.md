@@ -42,6 +42,7 @@
 
 2. 大模型平台 Ollama
     1. 注重本地部署，让模型完全在用户的本地设备上运行，数据无需上传至云端，从而最大程度保护用户的隐私。适合需要高度数据控制和离线环境的场景。
+    2. https://ollama.com/
 
 3. 图像生成
     1. MidJourney 
@@ -54,6 +55,9 @@
         1. https://sora.com/
         2. 中国、英国、俄罗斯、欧盟成员国 地区不可用
         3. 无免费版
+    2. hailuoai
+        1. https://hailuoai.com/video
+    3. ai.invideo.io
 
 5. 角色聊天
     1. https://character.ai/ 支持语音实时

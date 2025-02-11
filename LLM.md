@@ -26,3 +26,4 @@
 7. Mistral 7B 
     1. 由Mistral AI开发。
     2. 开源。 https://github.com/mistralai
+8. DeepSeek-V3
