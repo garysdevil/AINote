@@ -40,17 +40,13 @@
     3. 提供各种丰富的大模型。
     4. 提供通用聊天 HuggingChat。
 
-2. 大模型平台 Ollama
-    1. 注重本地部署，让模型完全在用户的本地设备上运行，数据无需上传至云端，从而最大程度保护用户的隐私。适合需要高度数据控制和离线环境的场景。
-    2. https://ollama.com/
-
-3. 图像生成
+2. 图像生成
     1. MidJourney 
         1. 官网 https://www.midjourney.com/ 
         2. 通过 [Discord](https://discord.com/invite/midjourney) 进行操作。
         3. 必须付费订阅才能使用。
 
-4. 视频生成 
+3. 视频生成 
     1. Sora
         1. https://sora.com/
         2. 中国、英国、俄罗斯、欧盟成员国 地区不可用
@@ -59,12 +55,12 @@
         1. https://hailuoai.com/video
     3. ai.invideo.io
 
-5. 角色聊天
+4. 角色聊天
     1. https://character.ai/ 支持语音实时
     2. https://janitorai.com/
     3. https://app.myshell.ai/chat
 
-6. 软件开发
+5. 软件开发
     1. cursor https://www.cursor.so/
         1. 商业。
         2. Cursor是一个AI驱动的IDE，强调AI配对编程，提供代码补全、自动修复bug和新功能的编写。它以其相对较小的用户基数为优势，可以更快地迭代和尝试新功能。其用户界面类似于VSCode，但集成了更深度的AI辅助功能。Cursor也提供了与各种LLM（如GPT-4）的集成选项，使其能够根据用户需求进行调整。
