@@ -10,6 +10,9 @@
 | **GVM**   | **Generative Video Model**   | 生成式视频模型（泛指 AI 生成视频） |
 
 
+- Wan2.1
+    - https://github.com/Wan-Video/Wan2.1
+
 ## grok答案 视频生成模型（VGM）排名
 - **Sora (OpenAI)**  
     - 主要特点: 被认为是最先进的文本到视频生成模型，生成的视频具有高度的真实感和复杂性。
