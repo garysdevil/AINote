@@ -10,7 +10,7 @@
     3. 一个开源的、自托管的 AI 用户界面平台，主要用于与大型语言模型（LLMs）进行交互。
 
 
-# 部署
+# 安装
 ## ollama
 ```sh
 # Linux系统安装
@@ -65,4 +65,19 @@ docker run -d -p 3000:8080 --gpus=all -v /mnt/d/AI/ollama:/root/.ollama -v /mnt/
 pip install open-webui
 open-webui serve
 # 访问 http://localhost:8080
+```
+
+## huggingface-cli
+```sh
+# 从huggingface下载模型参数 
+# 下载中断后重新运行会继续从中段开始下载
+huggingface-cli download Wan-AI/Wan2.1-T2V-14B --local-dir ./Wan2.1-T2V-14B
+# --local-dir 保存在指定目录下
+```
+
+## Wan2.1
+
+```log
+# 输出指定文件名 --save_file "D:\Dev\Wan2.1\2.mp4
+cache_video failed, error: result type Float can't be cast to the desired output type Byte
 ```
