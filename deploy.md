@@ -68,6 +68,11 @@ open-webui serve
 ```
 
 ## huggingface-cli
+```cmd
+REM 设置镜像
+setx HF_ENDPOINT https://hf-mirror.com
+echo %HF_ENDPOINT%
+```
 ```sh
 # 从huggingface下载模型参数 
 # 下载中断后重新运行会继续从中段开始下载
@@ -76,8 +81,15 @@ huggingface-cli download Wan-AI/Wan2.1-T2V-14B --local-dir ./Wan2.1-T2V-14B
 ```
 
 ## Wan2.1
+```powershell
+# Define the prompt as a variable
+$prompt = "Two anthropomorphic cats in comfy boxing gear and bright gloves fight intensely on a spotlighted stage."
+
+# Use the variable in the Python command
+python generate.py --save_file "D:\Dev\Wan2.1\2.1.mp4" --task t2v-1.3B --size 832*480 --ckpt_dir ./Wan2.1-T2V-1.3B --offload_model True --t5_cpu --sample_shift 8 --sample_guide_scale 6 --prompt "$prompt"
+```
 
 ```log
-# 输出指定文件名 --save_file "D:\Dev\Wan2.1\2.mp4
+# windows环境生成视频时指定输出文件名，否则报下面的错误 --save_file "D:\Dev\Wan2.1\2.mp4 
 cache_video failed, error: result type Float can't be cast to the desired output type Byte
 ```
