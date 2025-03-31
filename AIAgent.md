@@ -52,3 +52,4 @@
 2. 图形化系统自动识别 https://github.com/microsoft/OmniParser/
 3. 基于图形化系统界面的自动化操作 https://github.com/asweigart/pyautogui
 4. 自动化工作流 https://github.com/n8n-io/n8n
+5. autoMate https://github.com/yuruotong1/autoMate
