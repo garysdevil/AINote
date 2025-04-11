@@ -1,5 +1,34 @@
 ## 实践
 
+## 代码生成
+- 构建GUI
+```md
+1. 使用tkinter构建一个GUI界面
+2. 启动GUI界面，从 local/config.ini 读取配置
+3. 可以从界面输入这些配置，然后保存进 local/config.ini
+    1. wallet输入框是下拉框
+    2. password密码是明文
+4. 点击按钮“导入钱包”，则执行walletimport.py代码
+5. 图形化界面可以时时输出日志
+6. 图像化界面时时监控读取控制台的内容输出
+
+config.ini
+[bitbrower]
+url = http://127.0.0.1:54345
+
+[metamask]
+password = password
+
+[operation]
+seqstart = 1000
+seqend = 1
+# metamask 或 suiwallet
+wallet = suiwallet
+```
+
+from utils import logger
+self.logger = logger.get_logger('bit_log', to_console=True)
+
 ### 微信公众号
 你是一个专业的微信公众号内容创作者。请根据以下要求写一篇约800-1000字的文章：
 
