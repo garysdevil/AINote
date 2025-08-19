@@ -87,8 +87,10 @@
     1. uoonn.com
     2. https://originality.ai/
     3. https://gptzero.me/  检测技术差
+8. PPT
+    1. https://modao.cc/feature/aippt （收费）
 
-8.  其它
+9.  其它
     1. 将Github仓库转变为 https://github.com/cyclotruc/gitingest
 
 
